@@ -83,7 +83,7 @@ Los seres vivos tienden a cometer errores, una pequeña cantidad de imperfeccion
 
 ### Continuidad:
 Debe parecer que la vida del personaje continua aún cuando el software no está corriendo, o cuando el usuario no interactúa con el.
-También se refiere a la creación de un mundo en donde el personaje habita, y debe interactuar con diferentes elementos mas allá del usuario.
+También se refiere a la creación de un mundo en donde el personaje habita, y con el cual debe interactuar cotidianamente.
 - **Estímulo**: ¿Cuánto es 2 + 2?
 - **Respuesta Software 1**: ¡Hola! Recién vuelvo de hacer las compras. El resultado es 4. (La vida del personaje continuó mientras el usuario no interactuó)
 - **Respuesta Software 2**: Un momento, me voy a fijar en la caltuladora para estar seguro. (pausa) El resultado es 4. (En este caso el personaje interactuó con su propio mundo)
