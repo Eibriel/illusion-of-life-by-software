@@ -12,7 +12,9 @@ A su vez parecería que la creación de un agente de Inteligencia Artificial res
 ## Los N principios de la **ilusión**
 
 A continuación detallo algunos principios que a mi entender deben seguirse para lograr la **ilusión**.
-Los nombro *"Los N principios de la ilusión"* porque el número puede ir cambiando a lo largo del tiempo.
+Los nombro *"Los N principios..."* porque el número puede ir cambiando a lo largo del tiempo.
+
+**Glosario:**
 
 *Software*: Programa de computación, que generalmente tiene un fin concreto (informar, entretener, etc.).
 
