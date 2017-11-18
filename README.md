@@ -44,7 +44,7 @@ Por ejemplo:
 - **Estimulo**: Hola
 - **Respuesta**: ¡Buenas!
 - **Estimulo**: Hola
-- **Respuesta**: ¿Conoces otras palabras? (En este caso se cruzó el umbral de 2 repeticiones del mismo estímulo)
+- **Respuesta**: ¿Solo sabes decir Hola? (En este caso se cruzó el umbral de 2 repeticiones del mismo estímulo)
 
 ### Opinión
 La respuesta debe decir algo acerca del estímulo del usuario.
@@ -58,8 +58,8 @@ Es interesante, también, que una de las definiciones de Inteligencia Artificial
 
 Los siguientes ejemplos muestran personalidades totalmente diferentes:
 - **Estimulo**: ¿Cuánto es 2 + 2?
-- **Respuesta Personaje 1**: Lo siento, no comprendo la pregunta
-- **Respuesta Personaje 2**: ¡¿Qué?! Tengo mayores problemas aquí
+- **Respuesta Software 1**: Lo siento, no comprendo la pregunta
+- **Respuesta Software 2**: ¡¿Qué?! Tengo mayores problemas aquí
 
 ### Puesta en escena (Staging)
 La interacción debe ser clara, (Staging) el usuario debe saber que ha sucedido. Es uno de los doce principios de la animación.
@@ -80,11 +80,32 @@ Los seres vivos tienden a cometer errores, una pequeña cantidad de imperfeccion
 - Si es un ser vivo inorgánico: interpretar de manera literal un estímulo, reaccionar exageradamente.
 
 ### Continuidad:
-Debe parecer que la vida del personaje continua aún cuando el software no está corriendo, o cuando el usuario no interactuan con el.
+Debe parecer que la vida del personaje continua aún cuando el software no está corriendo, o cuando el usuario no interactúa con el.
+También se refiere a la creación de un mundo en donde el personaje habita, y debe interactuar con diferentes elementos mas allá del usuario.
+- **Estímulo**: ¿Cuánto es 2 + 2?
+- **Respuesta Software 1**: ¡Hola! Recién vuelvo de hacer las compras. El resultado es 4. (La vida del personaje continuó mientras el usuario no interactuó)
+- **Respuesta Software 2**: Un momento, me voy a fijar en la caltuladora para estar seguro. (pausa) El resultado es 4. (En este caso el personaje interactuó con su propio mundo)
+
+## Duración de las interacciónes
+(?)
 
 ## Análisis
 
 A continuación analizo diferentes softwares para ver de qué manera utilizan estos elementos.
+
+### Little Computer People
+Es un juego de simulación de vida lanzado en 1985. [Wikipedia](https://en.wikipedia.org/wiki/Little_Computer_People), [Gameplay](https://www.youtube.com/watch?v=SkTgX1mGmDg)
+
+### The Sims Mobile
+Es un juego de simulación de vida para teléfonos celulares
+
+### Pou
+Es una mascota virtual para teléfonos celulares
+
+### Mitsuku
+Es un chatbot que utiliza la tecnología AIML para mantener conversaciones con los usuarios. El software ganó 3 veces el Premio Loebner. [Sitio Web](http://www.mitsuku.com/), [Telegram](http://telegram.me/mitsukubot)
+
+### Cuadro comparativo
 
 |Fundamento|Little Computer People|The Sims Mobile|Pou|Mitsuku|
 |----------|----------------------|---------------|---|-------|
@@ -100,20 +121,78 @@ A continuación analizo diferentes softwares para ver de qué manera utilizan es
 |Continuidad|Hay un personaje diferente para cada copia del juego, el estado del juego se guarda para continuarlo luego.|Al salir del programa y volver a entrar se muestra la evolución del personaje durante ese tiempo.|Al salir del programa y volver a entrar se muestra la evolución del personaje durante ese tiempo.|El personaje puede recordar aspectos del usuario e información de la conversación de una sesión a otra.|
 |Aleatoriedad|El personaje realiza diferentes acciones por su cuenta, también puede elegir no ejecutar la acción requerida por el usuario.|La aleatoriedad está reducida al mínimo, solo presente en los sims que no el usuario no puede controlar.|El personaje puede rechazar cierto tipo de comida de vez en cuando.||
 
+# Tipos de interacción
+
+## Dirigida por el software
+En este caso el avance en la interacción es comandado por el software, y los estimulos del usuario no son tan relevantes.
+
+El usuario mantiene un tono(?) *Descriptivo*(?) y el software *Imperativo*
+
+Esto se puede ver claramente cuando el software encarna un personaje en una situación extraordinaria o con una personalidad egocéntrica.
+- **Estímulo**:  Hola
+- **Respuesta**: ¡Rápido! ¿Debo ir al norte o al sur?
+
+## Dirigida por el usuario
+El software mantiene una actitud mayormente pasiva.
+
+El usuario mantiene un tono(?) *Imperativo* y el software *Descriptivo*
+- **Estímulo**:  Camina hacia el norte
+- **Respuesta**: Me encuentro en una habitación oscura, algo brilla en una esquina
+
+## Secuenciales
+Es un caso especial en donde el usuario continúa la narración de manera cooperativa.
+- **Estímulo**:  ¿Cómo estás?
+- **Respuesta**: Excelente, tuve un sueño muy lindo
+- **Estímulo**:  ¿Qué soñaste?
+- **Respuesta**: Soñé que estaba muy feliz y me reía sin parar
+- **Estímulo**:  Yo no recuerdo que soñé
+- **Respuesta**: Que pena, espero que haya sido algo lindo
+
 ## Intersecciones
 ### Con la animación generada por ordenador
 La animación generada por ordenador es la creación de personajes y ambientes a través de la manipulación de imágenes
 
 ### Con los videojuegos
-Los videojuegos tienen varios puntos en común con el Animaware, es software, y muchos presentan personajes complejos, con los cuales podemos sentir empatía y que forman parte de una narración y un universo en el que podemos sumergirnos.
-La diferencia radica …
+Los videojuegos tienen varios puntos en común con la **ilusión**, es software, y muchos presentan personajes complejos, con los cuales podemos sentir empatía y que forman parte de una narración y un universo en el que podemos sumergirnos.
+La diferencia radica en (?)
 
-Los videojuegos son una de las formas en que puede presentarse un Animaware, siempre y cuando se utilicen técnicas de programación para generar la ilusión de vida.
+Los videojuegos son una de las formas en que puede presentarse una **ilusión**, siempre y cuando se utilicen técnicas de programación para generar la ilusión de vida.
 
 ### Con los chatbots
-Un Animaware puede presentarse en la forma de chatbot.
+Una **ilusión** puede presentarse en la forma de chatbot.
 
-> Agregar cuadro con el espectro de posibilidades entre Animatronic y Animaware. Y Animación y Animaware.
+# Narrativa
+
+![Basics od Storytelling](storytelling_001.jpg)
+*Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay*
+
+![Debugging a Scene](debbuging_a_scene.jpg)
+*Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay*
+
+![Character Desings](character_design_001.jpg)
+*Danganronpa's Creator On Making Charming Characters*
+
+# Bibliografía
+- *The Illusion of Life: Disney Animation* - Ollie Johnson, Frank Thomas
+
+## Narración de historias
+- *Create Convincing Computer Conversations* - https://www.pullstring.com/conversational-writing
+- *Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay* - https://www.youtube.com/watch?v=8fXE-E1hjKk
+- *Writing 'Nothing': Storytelling with Unsaid Words and Unreliable Narrators* - https://www.youtube.com/watch?v=LPkbAMj-xVA
+
+## Narración interactiva
+- *Mobile Storytelling Lessons That Also Work for AAA* - https://www.youtube.com/watch?v=SjVF24anbgA
+- *Choice, Consequence and Complicity* - https://www.youtube.com/watch?v=-FfITxaXeqM
+
+## Diseño de personajes
+- *Danganronpa's Creator On Making Charming Characters* - https://www.youtube.com/watch?v=8gzYvSO05kI
+- *Forget Protagonists: Writing NPCs with Agency for 80 Days and Beyond* - https://www.youtube.com/watch?v=FLtATD6CF0E
+
+## Worldbuilding
+- *Thinking Globally: Building the Optimistic Future of Overwatch* - https://www.youtube.com/watch?v=bj56ejM5EcU
+
+## Otros
+- *Building The AI For BioShock Infinite's Elizabeth* - https://www.youtube.com/watch?v=wusK-mciCVc
 
 # ANEXO I - Principios de la animación
 
