@@ -15,8 +15,11 @@ A continuación detallo algunos principios que a mi entender deben seguirse para
 Los nombro *"Los N principios de la ilusión"* porque el número puede ir cambiando a lo largo del tiempo.
 
 *Software*: Programa de computación, que generalmente tiene un fin concreto (informar, entretener, etc.).
+
 *Usuario*: Ser humano interactuando con el software, generalmente con un fin concreto (obtener información, entretenerse, etc.).
+
 *Estimulo*: La acción del usuario que está manipulando el Software (Click, Voz, Arrastrar, Texto, etc.).
+
 *Respuesta*: La respuesta que brinda el Software al estímulo del usuario o del ambiente (Sonido, Texto, Animación, etc.).
 
 > El software puede ser de procesamiento de lenguaje natural, de generación de imágenes y animaciones, o mixto.
@@ -54,9 +57,9 @@ Los personajes suelen definirse por la reacción ante situaciones límite, y la 
 Es interesante, también, que una de las definiciones de Inteligencia Artificial es "Un programa capaz de actuar cuando no sabe que acción tomar" *(Buscar cita)*
 
 Los siguientes ejemplos muestran personalidades totalmente diferentes:
-- **Estimulo**: ¿Cuánto es 2 + 2"
-- **Respuesta 1**: Lo siento, no comprendo la pregunta
-- **Respuesta 2**: ¡¿Qué?! Tengo mayores problemas aquí
+- **Estimulo**: ¿Cuánto es 2 + 2?
+- **Respuesta Personaje 1**: Lo siento, no comprendo la pregunta
+- **Respuesta Personaje 2**: ¡¿Qué?! Tengo mayores problemas aquí
 
 ### Puesta en escena (Staging)
 La interacción debe ser clara, (Staging) el usuario debe saber que ha sucedido. Es uno de los doce principios de la animación.
