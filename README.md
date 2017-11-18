@@ -49,7 +49,7 @@ Por ejemplo:
 - **Respuesta**: ¿Solo sabes decir Hola? (En este caso se cruzó el umbral de 2 repeticiones del mismo estímulo)
 
 ### Opinión
-La respuesta debe decir algo acerca del estímulo del usuario.
+La respuesta debe decir algo acerca del estímulo del usuario. También llamado *Trampoline Moments* por Pullstring.
 Ejemplo tomado del libro *Create Convincing Computer Conversations*:
 > Si un usuario responde a la pregunta "¿Cuál es tu color favorito?" diciendo "Rojo", responder "Amo ese color" es muy vago. [...] Sin embargo si el personaje responde "Oooh ¡Rojo! ¡Amo ese color!", es mas probable que el usuario se sienta comprendido.
 
@@ -177,8 +177,12 @@ Una **ilusión** puede presentarse en la forma de chatbot.
 # Bibliografía
 - *The Illusion of Life: Disney Animation* - Ollie Johnson, Frank Thomas
 
-## Narración de historias
+# Pullstring
 - *Create Convincing Computer Conversations* - https://www.pullstring.com/conversational-writing
+- *Forget the Turing Test. The Key to Conversational Engagement Might Be Trampoline Moments* - https://adamnash.blog/2017/02/16/forget-the-turing-test-the-key-to-conversational-engagement-might-be-trampoline-moments/
+
+
+## Narración de historias
 - *Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay* - https://www.youtube.com/watch?v=8fXE-E1hjKk
 - *Writing 'Nothing': Storytelling with Unsaid Words and Unreliable Narrators* - https://www.youtube.com/watch?v=LPkbAMj-xVA
 
