@@ -174,7 +174,7 @@ Una **ilusión** puede presentarse en la forma de chatbot.
 ![Character Desings](character_design_001.jpg)
 *Danganronpa's Creator On Making Charming Characters*
 
-![Writing Nothing](writing_nothing.png)
+![Writing Nothing](writing_nothing.jpg)
 *Writing 'Nothing': Storytelling with Unsaid Words and Unreliable Narrators*
 
 # Bibliografía
